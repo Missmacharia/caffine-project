@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+Minimum Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Below are the minimum requirements for your application. Please feel free to go beyond the minimum requirements and showcase some of the skills!
 
-## Available Scripts
+Application Description
 
-In the project directory, you can run:
+I love caffeine... I need an application that will tell me if I am having safe levels of caffeine. Assuming that 500mg of caffeine is safe. I need to be able to select one of my favorite drinks, tell you how many I consumed. You need to tell me how many more of my favorite drinks I can have to stay in a safe limit.
 
-### `npm start`
+Favorite Caffeinated Drinks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Drink
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Description
 
-### `npm test`
+Monster Ultra Sunrise
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A refreshing orange beverage that has 75mg of caffeine per serving. Every can has two servings.
 
-### `npm run build`
+Black Coffee
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The classic, the average 8oz. serving of black coffee has 95mg of caffeine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Americano
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Sometimes you need to water it down a bit... and in comes the americano with an average of 77mg. of caffeine per serving.
 
-### `npm run eject`
+Sugar free NOS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Another orange delight without the sugar. It has 130 mg. per serving, and each can have two servings.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5 Hour Energy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+And amazing shot of get up and go! Each 2 fl. oz. container has 200mg of caffeine to get you going.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Minimum Requirements
 
-## Learn More
+• Data Entry Page - A place for me to select a beverage and tell you how much I consumed.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+• Response - A response, it can be same page or another page where I can see how much more I can consume.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Scoring
 
-### Code Splitting
+This project is very general. It has room for many improvements and a lot of creativity. You are more than welcome to apply as much as you would like to showcase your skills. Below is what we will be scoring your application on.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+• Logic, Design, Functionality, Security, Validation

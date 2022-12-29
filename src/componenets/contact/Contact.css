@@ -1,0 +1,36 @@
+.contact_container{
+    background-color: #FFFFFF;
+    min-width: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contacts >input{
+    width: 400px;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #E5E5E5;
+}
+
+.submit_btn{
+    background-color: #C0AA83;
+    width: 400px;
+    padding: 3px;
+    color: white;
+    border: none;
+}
+
+.message{
+    padding: 5px 10px;   
+}
