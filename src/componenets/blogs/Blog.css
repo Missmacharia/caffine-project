@@ -1,0 +1,34 @@
+.blog_container{
+    background-color: #FAF8F5;
+    min-width: 85vw;
+    min-height: 80vh;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.blog_details{
+    display: flex;
+    gap: 20px;
+}
+
+.image_blog>img{
+    width: 270px;
+    border-radius: 5px;
+}
+
+.about_blog{
+    width: 570px;
+}
+
+.about_blog>button{
+    background-color: #C0AA83;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
